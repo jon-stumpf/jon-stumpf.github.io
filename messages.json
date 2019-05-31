@@ -242,6 +242,51 @@
       "speed": 13.21,
       "course": "ENE",
       "text": "Spinnaker run today...make up time!"
+    },
+    "20190530T052030-0400": {
+      "timestamp-iso8660": "20190530T052030-0400",
+      "lat_dec": 32.647945,
+      "lon_dec": -63.988838,
+      "elevation": 0.32,
+      "speed": 13.21,
+      "course": "ENE",
+      "text": "Unf drone left w crew who bailed in Bermuda."
+    },
+    "20190530T052130-0400": {
+      "timestamp-iso8660": "20190530T052130-0400",
+      "lat_dec": 32.647945,
+      "lon_dec": -63.988838,
+      "elevation": 0.32,
+      "speed": 13.21,
+      "course": "ENE",
+      "text": "Spin halyard parted last night...spin went under boat...great fun!"
+    },
+    "20190530T083000-0400": {
+      "timestamp-iso8660": "20190530T083000-0400",
+      "lat_dec": 34.258804,
+      "lon_dec": -60.187933,
+      "elevation": 0,
+      "speed": 0,
+      "course": "ENE",
+      "text": "Spinnaker halyard chafed through last night so no more Spinnaker until Azores.  Winds SW 10 for next several days."
+    },
+    "20190530T170615-0400": {
+      "timestamp-iso8660": "20190530T170615-0400",
+      "lat_dec": 34.575273,
+      "lon_dec": -59.481181,
+      "elevation": 10.46,
+      "speed": 10.1,
+      "course": "ENE",
+      "text": "Excellent sailing conditions. All good aboard."
+    },
+    "20190530T170745-0400": {
+      "timestamp-iso8660": "20190530T170745-0400",
+      "lat_dec": 34.575273,
+      "lon_dec": -59.481181,
+      "elevation": 10.46,
+      "speed": 10.1,
+      "course": "ENE",
+      "text": "Spinnaker halyard failed last night...a bit of excitment!"
     }
   }
 }
