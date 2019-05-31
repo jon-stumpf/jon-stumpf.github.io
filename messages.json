@@ -210,16 +210,6 @@
       "heading": 315,
       "text": "Cleared in Bermuda! Going to RBYC Marina in Hamilton now."
     },
-    "20190520T120000-0400": {
-      "timestamp-iso8660": "20190520T120000-0400",
-      "lat_dec": 32.395938,
-      "lon_dec": -64.674234,
-      "elevation": 0,
-      "speed": 0,
-      "course": "W",
-      "heading": 270,
-      "text": ""
-    },
     "20190520T130000-0400": {
       "timestamp-iso8660": "20190520T130000-0400",
       "lat_dec": 32.318856,
@@ -268,6 +258,56 @@
       "speed": 0,
       "course": "N",
       "heading": 0,
+      "text": ""
+    },
+    "20190520T160000-0400": {
+      "timestamp-iso8660": "20190520T160000-0400",
+      "lat_dec": 32.287745,
+      "lon_dec": -64.790653,
+      "elevation": 0,
+      "speed": 0,
+      "course": "SE",
+      "heading": 135,
+      "text": ""
+    },
+    "20190527T150000-0400": {
+      "timestamp-iso8660": "20190520T150000-0400",
+      "lat_dec": 32.295264,
+      "lon_dec": -64.82072,
+      "elevation": 0,
+      "speed": 0,
+      "course": "SE",
+      "heading": 135,
+      "text": ""
+    },
+    "20190527T160000-0400": {
+      "timestamp-iso8660": "20190520T160000-0400",
+      "lat_dec": 32.309138,
+      "lon_dec": -64.831518,
+      "elevation": 0,
+      "speed": 0,
+      "course": "SSW",
+      "heading": 202.5,
+      "text": ""
+    },
+    "20190527T170000-0400": {
+      "timestamp-iso8660": "20190527T170000-0400",
+      "lat_dec": 32.318856,
+      "lon_dec": -64.826701,
+      "elevation": 0,
+      "speed": 0,
+      "course": "SW",
+      "heading": 225,
+      "text": ""
+    },
+    "20190527T180000-0400": {
+      "timestamp-iso8660": "20190527T180000-0400",
+      "lat_dec": 32.395938,
+      "lon_dec": -64.674234,
+      "elevation": 0,
+      "speed": 0,
+      "course": "W",
+      "heading": 270,
       "text": ""
     },
     "20190528T053515-0400": {
