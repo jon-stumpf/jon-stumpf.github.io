@@ -7,6 +7,7 @@
       "elevation": 6.4,
       "speed": 0.0,
       "course": "N",
+      "heading": 0,
       "text": "Updated distribution list."
     },
     "20190515T080000-0400": {
@@ -16,6 +17,7 @@
       "elevation": 0.0,
       "speed": 0.0,
       "course": "N",
+      "heading": 0,
       "text": ""
     },
     "20190515T090000-0400": {
@@ -25,6 +27,7 @@
       "elevation": 0.0,
       "speed": 0.0,
       "course": "E",
+      "heading": 90,
       "text": ""
     },
     "20190515T202100-0400": {
@@ -34,6 +37,7 @@
       "elevation": 2.35,
       "speed": 10.1,
       "course": "SE",
+      "heading": 135,
       "text": "All good on the 8PM watch. Mild favorable fcast tonight."
     },
     "20190516T081915-0400": {
@@ -43,6 +47,7 @@
       "elevation": 0.32,
       "speed": 11.13,
       "course": "SE",
+      "heading": 135,
       "text": "All good here"
     },
     "20190516T190315-0400": {
@@ -52,6 +57,7 @@
       "elevation": 8.43,
       "speed": 14.27,
       "course": "SE",
+      "heading": 135,
       "text": "In the Stream...8 knots SOG with only 5 knots of wind!"
     },
     "20190517T061715-0400": {
@@ -61,6 +67,7 @@
       "elevation": 8.43,
       "speed": 14.27,
       "course": "SE",
+      "heading": 135,
       "text": "Yes, not been in Stream for a while."
     },
     "20190517T061745-0400": {
@@ -70,6 +77,7 @@
       "elevation": 8.43,
       "speed": 14.27,
       "course": "SE",
+      "heading": 135,
       "text": "See \"Islands in The Stream\" by Hemmingway."
     },
     "20190517T061830-0400": {
@@ -79,6 +87,7 @@
       "elevation": 8.43,
       "speed": 14.27,
       "course": "SE",
+      "heading": 135,
       "text": "Motoring last night. 1 engine RPM = 8 knots."
     },
     "20190517T061915-0400": {
@@ -88,6 +97,7 @@
       "elevation": 8.43,
       "speed": 14.27,
       "course": "SE",
+      "heading": 135,
       "text": "Have variable wind today, sailing at 6 to 10 knots."
     },
     "20190517T063545-0400": {
@@ -97,6 +107,7 @@
       "elevation": 8.43,
       "speed": 14.27,
       "course": "SE",
+      "heading": 135,
       "text": "Stream is very wide here…like 190 nautical miles."
     },
     "20190517T121800-0400": {
@@ -106,6 +117,7 @@
       "elevation": -3.74,
       "speed": 12.17,
       "course": "SE",
+      "heading": 135,
       "text": "Lovely day for a sail..."
     },
     "20190517T121900-0400": {
@@ -115,6 +127,7 @@
       "elevation": -3.74,
       "speed": 12.17,
       "course": "SE",
+      "heading": 135,
       "text": "...gonna get a little sporty tonight..."
     },
     "20190517T121945-0400": {
@@ -124,6 +137,7 @@
       "elevation": -3.74,
       "speed": 12.17,
       "course": "SE",
+      "heading": 135,
       "text": "…(20s gusting 30s from SSW-SW)"
     },
     "20190517T122045-0400": {
@@ -133,6 +147,7 @@
       "elevation": -3.74,
       "speed": 12.17,
       "course": "SE",
+      "heading": 135,
       "text": "But nothing severe"
     },
     "20190517T174230-0400": {
@@ -142,6 +157,7 @@
       "elevation": -3.74,
       "speed": 12.17,
       "course": "SE",
+      "heading": 135,
       "text": "Wind now 25 gust 30s No worse f'cast."
     },
     "20190519T022000-0400": {
@@ -151,6 +167,7 @@
       "elevation": 2.35,
       "speed": 15.33,
       "course": "ESE",
+      "heading": 112.5,
       "text": "Perfect night sailing! ETA Bermuda early AM Monday."
     },
     "20190519T075215-0400": {
@@ -160,6 +177,7 @@
       "elevation": 2.35,
       "speed": 15.33,
       "course": "ESE",
+      "heading": 112.5,
       "text": "All OK."
     },
     "20190519T091945-0400": {
@@ -169,6 +187,7 @@
       "elevation": 2.35,
       "speed": 7.03,
       "course": "SE",
+      "heading": 135,
       "text": "First Bermudan Scissor Tail sighted ( native to Bermuda)"
     },
     "20190520T045045-0400": {
@@ -178,6 +197,7 @@
       "elevation": 2.35,
       "speed": 9.07,
       "course": "SE",
+      "heading": 135,
       "text": "All Otay!"
     },
     "20190520T113200-0400": {
@@ -187,7 +207,58 @@
       "elevation": 10.46,
       "speed": 8.05,
       "course": "NW",
+      "heading": 315,
       "text": "Cleared in Bermuda! Going to RBYC Marina in Hamilton now."
+    },
+    "20190520T120000-0400": {
+      "timestamp-iso8660": "20190520T120000-0400",
+      "lat_dec": 32.395938,
+      "lon_dec": -64.674234,
+      "elevation": 0,
+      "speed": 0,
+      "course": "W",
+      "heading": 270,
+      "text": ""
+    },
+    "20190520T130000-0400": {
+      "timestamp-iso8660": "20190520T130000-0400",
+      "lat_dec": 32.318856,
+      "lon_dec": -64.826701,
+      "elevation": 0,
+      "speed": 0,
+      "course": "SW",
+      "heading": 225,
+      "text": ""
+    },
+    "20190520T140000-0400": {
+      "timestamp-iso8660": "20190520T140000-0400",
+      "lat_dec": 32.309138,
+      "lon_dec": -64.831518,
+      "elevation": 0,
+      "speed": 0,
+      "course": "SSW",
+      "heading": 202.5,
+      "text": ""
+    },
+    "20190520T150000-0400": {
+      "timestamp-iso8660": "20190520T150000-0400",
+      "lat_dec": 32.295264,
+      "lon_dec": -64.82072,
+      "elevation": 0,
+      "speed": 0,
+      "course": "SE",
+      "heading": 135,
+      "text": ""
+    },
+    "20190520T160000-0400": {
+      "timestamp-iso8660": "20190520T160000-0400",
+      "lat_dec": 32.287745,
+      "lon_dec": -64.790653,
+      "elevation": 0,
+      "speed": 0,
+      "course": "SE",
+      "heading": 135,
+      "text": ""
     },
     "20190521T000000-0400": {
       "timestamp-iso8660": "20190521T000000-0400",
@@ -196,6 +267,7 @@
       "elevation": 0,
       "speed": 0,
       "course": "N",
+      "heading": 0,
       "text": ""
     },
     "20190528T053515-0400": {
@@ -205,6 +277,7 @@
       "elevation": 10.46,
       "speed": 12.17,
       "course": "E",
+      "heading": 90,
       "text": "And we're off in a fresh SW breeze!"
     },
     "20190528T053530-0400": {
@@ -214,6 +287,7 @@
       "elevation": 10.46,
       "speed": 12.17,
       "course": "E",
+      "heading": 90,
       "text": "Next stop Horta!"
     },
     "20190528T080630-0400": {
@@ -223,6 +297,7 @@
       "elevation": 10.46,
       "speed": 12.17,
       "course": "E",
+      "heading": 90,
       "text": "Good SW-S winds f'cast on route into Sun 👍"
     },
     "20190529T063130-0400": {
@@ -232,6 +307,7 @@
       "elevation": 0.32,
       "speed": 13.21,
       "course": "ENE",
+      "heading": 67.5,
       "text": "Light wind all night."
     },
     "20190529T113400-0400": {
@@ -241,6 +317,7 @@
       "elevation": 0.32,
       "speed": 13.21,
       "course": "ENE",
+      "heading": 67.5,
       "text": "Spinnaker run today...make up time!"
     },
     "20190530T052030-0400": {
@@ -250,6 +327,7 @@
       "elevation": 0.32,
       "speed": 13.21,
       "course": "ENE",
+      "heading": 67.5,
       "text": "Unf drone left w crew who bailed in Bermuda."
     },
     "20190530T052130-0400": {
@@ -259,6 +337,7 @@
       "elevation": 0.32,
       "speed": 13.21,
       "course": "ENE",
+      "heading": 67.5,
       "text": "Spin halyard parted last night...spin went under boat...great fun!"
     },
     "20190530T083000-0400": {
@@ -268,6 +347,7 @@
       "elevation": 0,
       "speed": 0,
       "course": "ENE",
+      "heading": 67.5,
       "text": "Spinnaker halyard chafed through last night so no more Spinnaker until Azores.  Winds SW 10 for next several days."
     },
     "20190530T170615-0400": {
@@ -277,6 +357,7 @@
       "elevation": 10.46,
       "speed": 10.1,
       "course": "ENE",
+      "heading": 67.5,
       "text": "Excellent sailing conditions. All good aboard."
     },
     "20190530T170745-0400": {
@@ -286,6 +367,7 @@
       "elevation": 10.46,
       "speed": 10.1,
       "course": "ENE",
+      "heading": 67.5,
       "text": "Spinnaker halyard failed last night...a bit of excitment!"
     }
   }
