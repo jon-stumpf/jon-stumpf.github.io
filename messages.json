@@ -409,6 +409,26 @@
       "course": "ENE",
       "heading": 67.5,
       "text": "Spinnaker halyard failed last night...a bit of excitment!"
+    },
+    "20190531T111715-0400": {
+      "timestamp-iso8660": "20190531T111715-0400",
+      "lat_dec": 35.534001,
+      "lon_dec": -57.514821,
+      "elevation": -1.71,
+      "speed": 12.17,
+      "course": "ENE",
+      "heading": 67.5,
+      "text": "Another day of excellent conditions!"
+    },
+    "20190531T174645-0400": {
+      "timestamp-iso8660": "20190531T174645-0400",
+      "lat_dec": 35.534001,
+      "lon_dec": -57.514821,
+      "elevation": -1.71,
+      "speed": 12.17,
+      "course": "ENE",
+      "heading": 67.5,
+      "text": "All good here. A bit more wind (20+knots) and slightly bigger seas."
     }
   }
 }
