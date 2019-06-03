@@ -63,7 +63,7 @@ windyInit( options, windyAPI => {
 
 			if ( message.text != "" ) {
 			    const marker = L.marker([message.lat_dec, message.lon_dec], {
-				title: message.timestamp_iso8660,
+				title: messageTime,
 			    }).addTo(map);
 			    markers.push(marker);
 			    marker.bindPopup(message.text);
