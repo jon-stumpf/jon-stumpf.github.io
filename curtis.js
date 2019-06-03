@@ -35,6 +35,20 @@ windyInit( options, windyAPI => {
 	popupAnchor: [8, 16],
     });
 
+    const markers = [];
+
+    const updateIconStyle = () => {
+        for (const marker of markers) {
+            if (marker._icon) {
+		const heading = marker._icon.getAttribute('data-heading');
+		if (marker._icon.style.transform.indexOf('rotateZ') === -1) {
+		    marker._icon.style.transform = `${marker._icon.style.transform} rotateZ(${(heading || 0)}deg)`;
+		    marker._icon.style.transformOrigin = 'center';
+		}
+            }
+        }
+    };
+
     fetch("./messages.json")
         .then(response => response.json())
         .then(something => something.result)
@@ -85,10 +99,10 @@ windyInit( options, windyAPI => {
 			icon: BoatIcon,
 		    }).addTo(map);
 
-		    if (marker._icon.style.transform.indexOf('rotateZ') === -1) {
-			marker._icon.style.transform = `${marker._icon.style.transform} rotateZ(${(message.heading || 0)}deg)`;
-			marker._icon.style.transformOrigin = 'center';
-		    }
+		    markers.push(marker);
+		    marker._icon.setAttribute('data-heading', message.heading);
+
+		    updateIconStyle();
 		}
             } catch (error) {
 		console.error(`Error querying messages: ${error.message}`);
