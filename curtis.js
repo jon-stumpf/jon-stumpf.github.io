@@ -83,14 +83,12 @@ windyInit( options, windyAPI => {
 
 		    const marker = L.marker([message.lat_dec, message.lon_dec], {
 			icon: BoatIcon,
-		    });
+		    }).addTo(map);
 
 		    if (marker._icon.style.transform.indexOf('rotateZ') === -1) {
 			marker._icon.style.transform = `${marker._icon.style.transform} rotateZ(${(message.heading || 0)}deg)`;
 			marker._icon.style.transformOrigin = 'center';
 		    }
-
-		    marker.addTo(map);
 		}
             } catch (error) {
 		console.error(`Error querying messages: ${error.message}`);
