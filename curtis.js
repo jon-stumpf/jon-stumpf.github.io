@@ -102,7 +102,7 @@ windyInit( options, windyAPI => {
 
 		    markers.push(marker);
 		    marker._icon.setAttribute('data-heading', message.heading);
-		    marker.bringtoback();
+		    marker.bringToBack();
 
 		    updateIconStyle();
 		}
