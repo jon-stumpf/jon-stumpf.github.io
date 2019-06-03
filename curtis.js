@@ -26,7 +26,7 @@ windyInit( options, windyAPI => {
         popupAnchor: [0, 0],
     });
 
-    const MESSAGE_ICON_URL = "https://imgbin.com/png/67F005iG/red-flag-icon-png";
+    const MESSAGE_ICON_URL = "https://img.icons8.com/color/48/000000/map-pin.png";
 
     const MessageIcon = L.icon({
 	iconUrl: MESSAGE_ICON_URL,
