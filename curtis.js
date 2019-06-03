@@ -43,13 +43,13 @@ windyInit( options, windyAPI => {
     fetch("./boats-new.json")
         .then(response => response.json())
         .then(something => something.result)
-        .then(result => {
+        .then(newresult => {
             try {
 		let hue = 0;
-		for (const boatName of Object.keys(result)) {
+		for (const boatName of Object.keys(newresult)) {
 		    hue = (hue + 60) % 360;
 
-		    const boat = result[boatName];
+		    const boat = newresult[boatName];
 
 		    const layer = L.polyline(boat.track, {
 			color: `hsl(${hue}, 100%, 45%)`,
