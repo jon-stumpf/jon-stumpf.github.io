@@ -26,8 +26,6 @@ windyInit( options, windyAPI => {
         popupAnchor: [0, 0],
     });
 
-    const MessageIcon = L.divIcon();
-
     const markers = [];
 
     const updateIconStyle = () => {
@@ -65,8 +63,7 @@ windyInit( options, windyAPI => {
 
 			if ( message.text != "" ) {
 			    const marker = L.marker([message.lat_dec, message.lon_dec], {
-				title: messageTime,
-				icon: MessageIcon
+				title: messageTime
 			    }).addTo(map);
 			    markers.push(marker);
 			    marker.bindPopup(message.text);
