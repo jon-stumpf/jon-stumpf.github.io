@@ -26,7 +26,7 @@ windyInit( options, windyAPI => {
         popupAnchor: [0, 0],
     });
 
-    const MESSAGE_ICON_URL = "https://img.icons8.com/small/16/000000/circled-dot.png";
+    const MESSAGE_ICON_URL = "https://imgbin.com/png/67F005iG/red-flag-icon-png";
 
     const MessageIcon = L.icon({
 	iconUrl: MESSAGE_ICON_URL,
