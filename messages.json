@@ -40,7 +40,7 @@
           "speed": 10.1,
           "course": "SE",
           "heading": 135,
-          "text": "All good on the 8PM watch. Mild favorable fcast tonight."
+          "text": "All good on the 8PM watch.  Mild favorable fcast tonight."
         },
         "20190516T081915-0400": {
           "timestamp_iso8660": "20190516T081915-0400",
@@ -60,7 +60,7 @@
           "speed": 14.27,
           "course": "SE",
           "heading": 135,
-          "text": "In the Stream...8 knots SOG with only 5 knots of wind!"
+          "text": "In the Stream... 8 knots SOG with only 5 knots of wind!"
         },
         "20190517T061715-0400": {
           "timestamp_iso8660": "20190517T061715-0400",
@@ -70,13 +70,7 @@
           "speed": 0,
           "course": "SE",
           "heading": 135,
-          "text": [
-            "Yes, not been in Stream for a while.",
-            "See \"Islands in The Stream\" by Hemmingway.",
-            "Motoring last night. 1 engine RPM = 8 knots.",
-            "Have variable wind today, sailing at 6 to 10 knots.",
-            "Stream is very wide here…like 190 nautical miles."
-          ]
+          "text": "Yes, not been in Stream for a while.  See 'Islands in The Stream' by Hemmingway.  Motoring last night, 1 engine RPM = 8 knots.  Have variable wind today, sailing at 6 to 10 knots.  Stream is very wide here, like 190 nautical miles."
         },
         "20190517T121800-0400": {
           "timestamp_iso8660": "20190517T121800-0400",
@@ -86,11 +80,7 @@
           "speed": 12.17,
           "course": "SE",
           "heading": 135,
-          "text": [
-            "Lovely day for a sail...",
-            "...gonna get a little sporty tonight...",
-            "…(20s gusting 30s from SSW-SW)",
-            "But nothing severe"
+          "text": "Lovely day for a sail.  Gonna get a little sporty tonight (20s gusting 30s from SSW-SW) but nothing severe."
           ]
         },
         "20190517T174230-0400": {
@@ -104,14 +94,14 @@
           "text": "Wind now 25 gust 30s No worse f'cast."
         },
         "20190519T022000-0400": {
-          "timestamp_iso8660": "20190519T022200-0400",
+          "timestamp_iso8660": "20190519T022000-0400",
           "lat_dec": 35.10532,
           "lon_dec": -67.62188,
           "elevation": 2.35,
           "speed": 15.33,
           "course": "ESE",
           "heading": 112.5,
-          "text": "Perfect night sailing! ETA Bermuda early AM Monday."
+          "text": "Perfect night sailing!  ETA Bermuda early AM Monday."
         },
         "20190519T075215-0400": {
           "timestamp_iso8660": "20190519T075215-0400",
@@ -131,7 +121,7 @@
           "speed": 7.03,
           "course": "SE",
           "heading": 135,
-          "text": "First Bermudan Scissor Tail sighted ( native to Bermuda)"
+          "text": "First Bermudan Scissor Tail sighted (native to Bermuda)"
         },
         "20190520T045045-0400": {
           "timestamp_iso8660": "20190520T045045-0400",
@@ -151,7 +141,7 @@
           "speed": 8.05,
           "course": "NW",
           "heading": 315,
-          "text": "Cleared in Bermuda! Going to RBYC Marina in Hamilton now."
+          "text": "Cleared in Bermuda!  Going to RBYC Marina in Hamilton now."
         },
         "20190520T130000-0400": {
           "timestamp_iso8660": "20190520T130000-0400",
@@ -261,9 +251,7 @@
           "speed": 12.17,
           "course": "E",
           "heading": 90,
-          "text": [
-            "And we're off in a fresh SW breeze!",
-            "Next stop Horta!"
+          "text": "And we're off in a fresh SW breeze!  Next stop Horta!"
           ]
         },
         "20190528T080630-0400": {
@@ -294,7 +282,7 @@
           "speed": 0,
           "course": "ENE",
           "heading": 67.5,
-          "text": "Spinnaker run today...make up time!"
+          "text": "Spinnaker run today... make up time!"
         },
         "20190530T052030-0400": {
           "timestamp_iso8660": "20190530T052030-0400",
@@ -304,9 +292,7 @@
           "speed": 0,
           "course": "ENE",
           "heading": 67.5,
-          "text": [
-            "Unf drone left w crew who bailed in Bermuda.",
-            "Spin halyard parted last night...spin went under boat...great fun!"
+          "text": "Unf drone left w crew who bailed in Bermuda.  Spin halyard parted last night...spin went under boat...great fun!"
           ]
         },
         "20190530T083000-0400": {
@@ -317,9 +303,7 @@
           "speed": 0,
           "course": "ENE",
           "heading": 67.5,
-          "text": [
-            "Spinnaker halyard chafed through last night so no more Spinnaker until Azores.",
-            "Winds SW 10 for next several days."
+          "text": "Spinnaker halyard chafed through last night so no more Spinnaker until Azores.  Winds SW 10 for next several days."
           ]
         },
         "20190530T170615-0400": {
@@ -330,9 +314,7 @@
           "speed": 10.1,
           "course": "ENE",
           "heading": 67.5,
-          "text": [
-            "Excellent sailing conditions. All good aboard.",
-            "Spinnaker halyard failed last night...a bit of excitment!"
+          "text": "Excellent sailing conditions. All good aboard.  Spinnaker halyard failed last night...a bit of excitment!"
           ]
         },
         "20190531T111715-0400": {
@@ -353,7 +335,7 @@
           "speed": 12.17,
           "course": "ENE",
           "heading": 67.5,
-          "text": "All good here. A bit more wind (20+knots) and slightly bigger seas."
+          "text": "All good here.  A bit more wind (20+knots) and slightly bigger seas."
         },
         "20190601T083230-0400": {
           "timestamp_iso8660": "20190601T083230-0400",
@@ -363,7 +345,7 @@
           "speed": 10.1,
           "course": "ENE",
           "heading": 67.5,
-          "text": "Starting a wee turn toward Azore (now on COG 070T). Working around Azores High."
+          "text": "Starting a wee turn toward Azore (now on COG 070T).  Working around Azores High."
         },
         "20190601T123915-0400": {
           "timestamp_iso8660": "20190601T123915-0400",
@@ -373,7 +355,7 @@
           "speed": 0,
           "course": "ENE",
           "heading": 67.5,
-          "text": "If interested in why we are taking such an indirect route to the Azores, google “Azores High”. We r sailing the NW edge of it to stay in favorable winds."
+          "text": "If interested in why we are taking such an indirect route to the Azores, google 'Azores High'. We r sailing the NW edge of it to stay in favorable winds."
         },
         "20190601T163430-0400": {
           "timestamp_iso8660": "20190601T163430-0400",
@@ -383,7 +365,7 @@
           "speed": 0,
           "course": "ENE",
           "heading": 67.5,
-          "text": "Quote o t day: \"Never interrupt your enemy when he is making a mistake\" -Napoleon"
+          "text": "Quote o t day: 'Never interrupt your enemy when he is making a mistake' - Napoleon"
         },
         "20190601T182915-0400": {
           "timestamp_iso8660": "20190601T182915-0400",
