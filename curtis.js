@@ -26,7 +26,7 @@ windyInit( options, windyAPI => {
         popupAnchor: [0, 0],
     });
 
-    const MessageIcon = L.divIcon({className: 'my-div-icon'});
+    const MessageIcon = L.divIcon();
 
     const markers = [];
 
