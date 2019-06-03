@@ -42,7 +42,7 @@ windyInit( options, windyAPI => {
 
     fetch("./boats-new.json")
         .then(response => response.json())
-        .then(result => result.bubba)
+        .then(something => something.result)
         .then(result => {
             try {
 		let hue = 0;
