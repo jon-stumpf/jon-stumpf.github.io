@@ -56,16 +56,19 @@ windyInit( options, windyAPI => {
 			weight: 2,
 		    });
 
-		    let message = {}
+		    let message = {};
 
 		    for (const messageTime of Object.keys(boat.messages)) {
-			message = boat.messages[messageTime]
+			message = boat.messages[messageTime];
 
-			const marker = L.marker([message.lat_dec, message.lon_dec], {
-			    title: message.text,
-			}).addTo(map);
+			if ( message.text != "" ) {
+			    const marker = L.marker([message.lat_dec, message.lon_dec], {
+				title: message.timestamp_iso8660,
+			    }).addTo(map);
+			    marker.bindPopup(message.text);
+			}
 
-			layer.addLatLng([message.lat_dec, message.lon_dec])
+			layer.addLatLng([message.lat_dec, message.lon_dec]);
 		    }
 
 		    layer.addTo(map);
@@ -107,4 +110,3 @@ windyInit( options, windyAPI => {
     map.on('viewreset', updateIconStyle);
 
 })
-
