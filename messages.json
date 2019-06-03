@@ -344,8 +344,8 @@
         },
         "6/01  12:39": {
           "timestamp_iso8660": "20190601T123915-0400",
-          "lat_dec": 36.33124,
-          "lon_dec": -55.204453,
+          "lat_dec": 36.438283,
+          "lon_dec": -54.735341,
           "elevation": 0,
           "speed": 0,
           "course": "ENE",
@@ -354,8 +354,8 @@
         },
         "6/01  16:34": {
           "timestamp_iso8660": "20190601T163430-0400",
-          "lat_dec": 36.33124,
-          "lon_dec": -55.204453,
+          "lat_dec": 36.647168,
+          "lon_dec": -53.819909,
           "elevation": 0,
           "speed": 0,
           "course": "ENE",
@@ -364,13 +364,23 @@
         },
         "6/01  18:29": {
           "timestamp_iso8660": "20190601T182915-0400",
-          "lat_dec": 36.33124,
-          "lon_dec": -55.204453,
+          "lat_dec": 36.905891,
+          "lon_dec": -52.686064,
           "elevation": 0,
           "speed": 0,
           "course": "ENE",
           "heading": 67.5,
           "text": "Quite pleasant conditions...dinner in the cockpit tonight! 😎"
+        },
+        "6/03  07:58": {
+          "timestamp_iso8660": "20190603T075815-0400",
+          "lat_dec": 37.564616,
+          "lon_dec": -49.799223,
+          "elevation": 0.32,
+          "speed": 12.17,
+          "course": "ENE",
+          "heading": 67.5,
+          "text": "Azores H expanding. Course change to 060T to get over it.  Actually shortens our route due to “great circle” geometry."
         }
       }
     }
