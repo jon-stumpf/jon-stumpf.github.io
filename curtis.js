@@ -61,6 +61,10 @@ windyInit( options, windyAPI => {
 		    for (const messageTime of Object.keys(boat.messages)) {
 			message = boat.messages[messageTime]
 
+			const marker = L.marker([message.lat_dec, message.lon_dec], {
+			    title: message.text,
+			}).addTo(map);
+
 			layer.addLatLng([message.lat_dec, message.lon_dec])
 		    }
 
