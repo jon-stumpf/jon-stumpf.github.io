@@ -98,11 +98,10 @@ windyInit( options, windyAPI => {
 
 		    const marker = L.marker([message.lat_dec, message.lon_dec], {
 			icon: BoatIcon,
-		    }).addTo(map);
+		    }).bringToBack().addTo(map);
 
 		    markers.push(marker);
 		    marker._icon.setAttribute('data-heading', message.heading);
-		    marker.bringToBack();
 
 		    updateIconStyle();
 		}
