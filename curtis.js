@@ -85,8 +85,6 @@ windyInit( options, windyAPI => {
 			icon: BoatIcon,
 		    });
 
-		    marker.bringToBack();
-
 		    if (marker._icon.style.transform.indexOf('rotateZ') === -1) {
 			marker._icon.style.transform = `${marker._icon.style.transform} rotateZ(${(message.heading || 0)}deg)`;
 			marker._icon.style.transformOrigin = 'center';
