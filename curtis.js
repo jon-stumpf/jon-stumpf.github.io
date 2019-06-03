@@ -26,6 +26,15 @@ windyInit( options, windyAPI => {
         popupAnchor: [0, 0],
     });
 
+    const MESSAGE_ICON_URL = "https://img.icons8.com/small/16/000000/circled-dot.png";
+
+    const MessageIcon = L.icon({
+	iconUrl: MESSAGE_ICON_URL,
+	iconSize: [16, 16],
+	iconAnchor: [8, 8],
+	popupAnchor: [0, 0],
+    });
+
     const markers = [];
 
     const updateIconStyle = () => {
@@ -63,7 +72,8 @@ windyInit( options, windyAPI => {
 
 			if ( message.text != "" ) {
 			    const marker = L.marker([message.lat_dec, message.lon_dec], {
-				title: messageTime
+				title: messageTime,
+				icon: MessageIcon,
 			    }).addTo(map);
 			    markers.push(marker);
 			    marker.bindPopup(message.text);
