@@ -40,7 +40,7 @@ windyInit( options, windyAPI => {
         }
     };
 
-    fetch("./boats-new.json")
+    fetch("./messages.json")
         .then(response => response.json())
         .then(something => something.result)
         .then(newresult => {
@@ -51,10 +51,20 @@ windyInit( options, windyAPI => {
 
 		    const boat = newresult[boatName];
 
-		    const layer = L.polyline(boat.track, {
+		    const layer = L.polyline([], {
 			color: `hsl(${hue}, 100%, 45%)`,
 			weight: 2,
-		    }).addTo(map);
+		    });
+
+		    let message = {}
+
+		    for (const messageTime of Object.keys(boat.messages)) {
+			message = boat.messages[messageTime]
+
+			layer.addLatLng([message.lat_dec, message.lon_dec])
+		    }
+
+		    layer.addTo(map);
 
 		    layer.on('mouseover', function (e) {
 			layer.setStyle({
@@ -68,22 +78,22 @@ windyInit( options, windyAPI => {
 			});
 		    });
 
-		    const marker = L.marker(boat.track[boat.track.length - 1], {
+		    const marker = L.marker([message.lat_dec, message.lon_dec], {
 			icon: BoatIcon,
 		    }).addTo(map);
 
 		    markers.push(marker);
-		    marker._icon.setAttribute('data-heading', boat.heading);
+		    marker._icon.setAttribute('data-heading', message.heading);
 		    marker.bindPopup(boatName);
 
 		    updateIconStyle();
 		}
             } catch (error) {
-		console.error(`Error querying boats: ${error.message}`);
+		console.error(`Error querying messages: ${error.message}`);
             }
         })
         .catch(error => {
-            console.error(`Error querying boats: ${error.message}`);
+            console.error(`Error querying messages: ${error.message}`);
         });
 
     // Handle some events. We need to update the rotation of icons ideally each time

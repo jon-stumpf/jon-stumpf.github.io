@@ -1,397 +1,401 @@
 {
-  "messages": {
-    "20190514T131100-0400": {
-      "timestamp-iso8660": "20190514T131100-0400",
-      "lat_dec": 40.419635,
-      "lon_dec": -74.031951,
-      "elevation": 6.4,
-      "speed": 0.0,
-      "course": "N",
-      "heading": 0,
-      "text": "Updated distribution list."
-    },
-    "20190515T080000-0400": {
-      "timestamp-iso8660": "20190515T080000-0400",
-      "lat_dec": 40.471843,
-      "lon_dec": -74.037868,
-      "elevation": 0.0,
-      "speed": 0.0,
-      "course": "N",
-      "heading": 0,
-      "text": ""
-    },
-    "20190515T090000-0400": {
-      "timestamp-iso8660": "20190515T090000-0400",
-      "lat_dec": 40.492545,
-      "lon_dec": -74.011625,
-      "elevation": 0.0,
-      "speed": 0.0,
-      "course": "E",
-      "heading": 90,
-      "text": ""
-    },
-    "20190515T202100-0400": {
-      "timestamp-iso8660": "20190515T202100-0400",
-      "lat_dec": 40.049265,
-      "lon_dec": -73.292305,
-      "elevation": 2.35,
-      "speed": 10.1,
-      "course": "SE",
-      "heading": 135,
-      "text": "All good on the 8PM watch. Mild favorable fcast tonight."
-    },
-    "20190516T081915-0400": {
-      "timestamp-iso8660": "20190516T081915-0400",
-      "lat_dec": 39.820976,
-      "lon_dec": -72.918191,
-      "elevation": 0.32,
-      "speed": 11.13,
-      "course": "SE",
-      "heading": 135,
-      "text": "All good here"
-    },
-    "20190516T190315-0400": {
-      "timestamp-iso8660": "20190516T190315-0400",
-      "lat_dec": 38.433941,
-      "lon_dec": -71.47911,
-      "elevation": 8.43,
-      "speed": 14.27,
-      "course": "SE",
-      "heading": 135,
-      "text": "In the Stream...8 knots SOG with only 5 knots of wind!"
-    },
-    "20190517T061715-0400": {
-      "timestamp-iso8660": "20190517T061715-0400",
-      "lat_dec": 37.942375,
-      "lon_dec": -70.955474,
-      "elevation": 0,
-      "speed": 0,
-      "course": "SE",
-      "heading": 135,
-      "text": [
-        "Yes, not been in Stream for a while.",
-        "See \"Islands in The Stream\" by Hemmingway.",
-        "Motoring last night. 1 engine RPM = 8 knots.",
-        "Have variable wind today, sailing at 6 to 10 knots.",
-        "Stream is very wide here…like 190 nautical miles."
-      ]
-    },
-    "20190517T121800-0400": {
-      "timestamp-iso8660": "20190517T121800-0400",
-      "lat_dec": 36.959241,
-      "lon_dec": -69.908201,
-      "elevation": -3.74,
-      "speed": 12.17,
-      "course": "SE",
-      "heading": 135,
-      "text": [
-        "Lovely day for a sail...",
-        "...gonna get a little sporty tonight...",
-        "…(20s gusting 30s from SSW-SW)",
-        "But nothing severe"
-      ]
-    },
-    "20190517T174230-0400": {
-      "timestamp-iso8660": "20190517T174230-0400",
-      "lat_dec": 36.639028,
-      "lon_dec": -69.324375,
-      "elevation": -3.74,
-      "speed": 12.17,
-      "course": "SE",
-      "heading": 135,
-      "text": "Wind now 25 gust 30s No worse f'cast."
-    },
-    "20190519T022000-0400": {
-      "timestamp-iso8660": "20190519T022200-0400",
-      "lat_dec": 35.10532,
-      "lon_dec": -67.62188,
-      "elevation": 2.35,
-      "speed": 15.33,
-      "course": "ESE",
-      "heading": 112.5,
-      "text": "Perfect night sailing! ETA Bermuda early AM Monday."
-    },
-    "20190519T075215-0400": {
-      "timestamp-iso8660": "20190519T075215-0400",
-      "lat_dec": 34.227533,
-      "lon_dec": -66.625854,
-      "elevation": 0,
-      "speed": 0,
-      "course": "ESE",
-      "heading": 112.5,
-      "text": "All OK."
-    },
-    "20190519T091945-0400": {
-      "timestamp-iso8660": "20190519T091945-0400",
-      "lat_dec": 34.017555,
-      "lon_dec": -66.387591,
-      "elevation": 2.35,
-      "speed": 7.03,
-      "course": "SE",
-      "heading": 135,
-      "text": "First Bermudan Scissor Tail sighted ( native to Bermuda)"
-    },
-    "20190520T045045-0400": {
-      "timestamp-iso8660": "20190520T045045-0400",
-      "lat_dec": 32.697748,
-      "lon_dec": -64.863281,
-      "elevation": 2.35,
-      "speed": 9.07,
-      "course": "SE",
-      "heading": 135,
-      "text": "All Otay!"
-    },
-    "20190520T113200-0400": {
-      "timestamp-iso8660": "20190520T113200-0400",
-      "lat_dec": 32.394058,
-      "lon_dec": -64.668638,
-      "elevation": 10.46,
-      "speed": 8.05,
-      "course": "NW",
-      "heading": 315,
-      "text": "Cleared in Bermuda! Going to RBYC Marina in Hamilton now."
-    },
-    "20190520T130000-0400": {
-      "timestamp-iso8660": "20190520T130000-0400",
-      "lat_dec": 32.318856,
-      "lon_dec": -64.826701,
-      "elevation": 0,
-      "speed": 0,
-      "course": "SW",
-      "heading": 225,
-      "text": ""
-    },
-    "20190520T140000-0400": {
-      "timestamp-iso8660": "20190520T140000-0400",
-      "lat_dec": 32.309138,
-      "lon_dec": -64.831518,
-      "elevation": 0,
-      "speed": 0,
-      "course": "SSW",
-      "heading": 202.5,
-      "text": ""
-    },
-    "20190520T150000-0400": {
-      "timestamp-iso8660": "20190520T150000-0400",
-      "lat_dec": 32.295264,
-      "lon_dec": -64.82072,
-      "elevation": 0,
-      "speed": 0,
-      "course": "SE",
-      "heading": 135,
-      "text": ""
-    },
-    "20190520T160000-0400": {
-      "timestamp-iso8660": "20190520T160000-0400",
-      "lat_dec": 32.287745,
-      "lon_dec": -64.790653,
-      "elevation": 0,
-      "speed": 0,
-      "course": "SE",
-      "heading": 135,
-      "text": ""
-    },
-    "20190521T000000-0400": {
-      "timestamp-iso8660": "20190521T000000-0400",
-      "lat_dec": 32.290853,
-      "lon_dec": -64.788328,
-      "elevation": 0,
-      "speed": 0,
-      "course": "N",
-      "heading": 0,
-      "text": ""
-    },
-    "20190520T160000-0400": {
-      "timestamp-iso8660": "20190520T160000-0400",
-      "lat_dec": 32.287745,
-      "lon_dec": -64.790653,
-      "elevation": 0,
-      "speed": 0,
-      "course": "SE",
-      "heading": 135,
-      "text": ""
-    },
-    "20190527T150000-0400": {
-      "timestamp-iso8660": "20190520T150000-0400",
-      "lat_dec": 32.295264,
-      "lon_dec": -64.82072,
-      "elevation": 0,
-      "speed": 0,
-      "course": "SE",
-      "heading": 135,
-      "text": ""
-    },
-    "20190527T160000-0400": {
-      "timestamp-iso8660": "20190520T160000-0400",
-      "lat_dec": 32.309138,
-      "lon_dec": -64.831518,
-      "elevation": 0,
-      "speed": 0,
-      "course": "SSW",
-      "heading": 202.5,
-      "text": ""
-    },
-    "20190527T170000-0400": {
-      "timestamp-iso8660": "20190527T170000-0400",
-      "lat_dec": 32.318856,
-      "lon_dec": -64.826701,
-      "elevation": 0,
-      "speed": 0,
-      "course": "SW",
-      "heading": 225,
-      "text": ""
-    },
-    "20190527T180000-0400": {
-      "timestamp-iso8660": "20190527T180000-0400",
-      "lat_dec": 32.395938,
-      "lon_dec": -64.674234,
-      "elevation": 0,
-      "speed": 0,
-      "course": "W",
-      "heading": 270,
-      "text": ""
-    },
-    "20190528T053515-0400": {
-      "timestamp-iso8660": "20190528T053515-0400",
-      "lat_dec": 32.38055,
-      "lon_dec": -64.648833,
-      "elevation": 10.46,
-      "speed": 12.17,
-      "course": "E",
-      "heading": 90,
-      "text": [
-        "And we're off in a fresh SW breeze!",
-        "Next stop Horta!"
-      ]
-    },
-    "20190528T080630-0400": {
-      "timestamp-iso8660": "20190528T080630-0400",
-      "lat_dec": 32.40729,
-      "lon_dec": -64.582834,
-      "elevation": 0,
-      "speed": 0,
-      "course": "E",
-      "heading": 90,
-      "text": "Good SW-S winds f'cast on route into Sun 👍"
-    },
-    "20190529T063130-0400": {
-      "timestamp-iso8660": "20190529T063130-0400",
-      "lat_dec": 32.647945,
-      "lon_dec": -63.988838,
-      "elevation": 0.32,
-      "speed": 13.21,
-      "course": "ENE",
-      "heading": 67.5,
-      "text": "Light wind all night."
-    },
-    "20190529T113400-0400": {
-      "timestamp-iso8660": "20190529T113400-0400",
-      "lat_dec": 32.647945,
-      "lon_dec": -63.988838,
-      "elevation": 0,
-      "speed": 0,
-      "course": "ENE",
-      "heading": 67.5,
-      "text": "Spinnaker run today...make up time!"
-    },
-    "20190530T052030-0400": {
-      "timestamp-iso8660": "20190530T052030-0400",
-      "lat_dec": 32.647945,
-      "lon_dec": -63.988838,
-      "elevation": 0,
-      "speed": 0,
-      "course": "ENE",
-      "heading": 67.5,
-      "text": [
-        "Unf drone left w crew who bailed in Bermuda.",
-        "Spin halyard parted last night...spin went under boat...great fun!"
-      ]
-    },
-    "20190530T083000-0400": {
-      "timestamp-iso8660": "20190530T083000-0400",
-      "lat_dec": 34.258804,
-      "lon_dec": -60.187933,
-      "elevation": 0,
-      "speed": 0,
-      "course": "ENE",
-      "heading": 67.5,
-      "text": [
-        "Spinnaker halyard chafed through last night so no more Spinnaker until Azores.",
-        "Winds SW 10 for next several days."
-      ]
-    },
-    "20190530T170615-0400": {
-      "timestamp-iso8660": "20190530T170615-0400",
-      "lat_dec": 34.575273,
-      "lon_dec": -59.481181,
-      "elevation": 10.46,
-      "speed": 10.1,
-      "course": "ENE",
-      "heading": 67.5,
-      "text": [
-        "Excellent sailing conditions. All good aboard.",
-        "Spinnaker halyard failed last night...a bit of excitment!"
-      ]
-    },
-    "20190531T111715-0400": {
-      "timestamp-iso8660": "20190531T111715-0400",
-      "lat_dec": 35.534001,
-      "lon_dec": -57.514821,
-      "elevation": -1.71,
-      "speed": 12.17,
-      "course": "ENE",
-      "heading": 67.5,
-      "text": "Another day of excellent conditions!"
-    },
-    "20190531T174645-0400": {
-      "timestamp-iso8660": "20190531T174645-0400",
-      "lat_dec": 35.534001,
-      "lon_dec": -57.514821,
-      "elevation": -1.71,
-      "speed": 12.17,
-      "course": "ENE",
-      "heading": 67.5,
-      "text": "All good here. A bit more wind (20+knots) and slightly bigger seas."
-    },
-    "20190601T083230-0400": {
-      "timestamp-iso8660": "20190601T083230-0400",
-      "lat_dec": 36.331240,
-      "lon_dec": -55.204453,
-      "elevation": -3.74,
-      "speed": 10.10,
-      "course": "ENE",
-      "heading": 67.5,
-      "text": "Starting a wee turn toward Azore (now on COG 070T). Working around Azores High."
-    },
-    "20190601T123915-0400": {
-      "timestamp-iso8660": "20190601T123915-0400",
-      "lat_dec": 36.331240,
-      "lon_dec": -55.204453,
-      "elevation": 0,
-      "speed": 0,
-      "course": "ENE",
-      "heading": 67.5,
-      "text": "If interested in why we are taking such an indirect route to the Azores, google “Azores High”. We r sailing the NW edge of it to stay in favorable winds."
-    },
-    "20190601T163430-0400": {
-      "timestamp-iso8660": "20190601T163430-0400",
-      "lat_dec": 36.331240,
-      "lon_dec": -55.204453,
-      "elevation": 0,
-      "speed": 0,
-      "course": "ENE",
-      "heading": 67.5,
-      "text": "Quote o t day: \"Never interrupt your enemy when he is making a mistake\" -Napoleon"
-    },
-    "20190601T182915-0400": {
-      "timestamp-iso8660": "20190601T182915-0400",
-      "lat_dec": 36.331240,
-      "lon_dec": -55.204453,
-      "elevation": 0,
-      "speed": 0,
-      "course": "ENE",
-      "heading": 67.5,
-      "text": "Quite pleasant conditions...dinner in the cockpit tonight! 😎"
+  "result": {
+    "Good Karma": {
+      "messages": {
+        "20190514T131100-0400": {
+          "timestamp-iso8660": "20190514T131100-0400",
+          "lat_dec": 40.419635,
+          "lon_dec": -74.031951,
+          "elevation": 6.4,
+          "speed": 0.0,
+          "course": "N",
+          "heading": 0,
+          "text": "Updated distribution list."
+        },
+        "20190515T080000-0400": {
+          "timestamp-iso8660": "20190515T080000-0400",
+          "lat_dec": 40.471843,
+          "lon_dec": -74.037868,
+          "elevation": 0.0,
+          "speed": 0.0,
+          "course": "N",
+          "heading": 0,
+          "text": ""
+        },
+        "20190515T090000-0400": {
+          "timestamp-iso8660": "20190515T090000-0400",
+          "lat_dec": 40.492545,
+          "lon_dec": -74.011625,
+          "elevation": 0.0,
+          "speed": 0.0,
+          "course": "E",
+          "heading": 90,
+          "text": ""
+        },
+        "20190515T202100-0400": {
+          "timestamp-iso8660": "20190515T202100-0400",
+          "lat_dec": 40.049265,
+          "lon_dec": -73.292305,
+          "elevation": 2.35,
+          "speed": 10.1,
+          "course": "SE",
+          "heading": 135,
+          "text": "All good on the 8PM watch. Mild favorable fcast tonight."
+        },
+        "20190516T081915-0400": {
+          "timestamp-iso8660": "20190516T081915-0400",
+          "lat_dec": 39.820976,
+          "lon_dec": -72.918191,
+          "elevation": 0.32,
+          "speed": 11.13,
+          "course": "SE",
+          "heading": 135,
+          "text": "All good here"
+        },
+        "20190516T190315-0400": {
+          "timestamp-iso8660": "20190516T190315-0400",
+          "lat_dec": 38.433941,
+          "lon_dec": -71.47911,
+          "elevation": 8.43,
+          "speed": 14.27,
+          "course": "SE",
+          "heading": 135,
+          "text": "In the Stream...8 knots SOG with only 5 knots of wind!"
+        },
+        "20190517T061715-0400": {
+          "timestamp-iso8660": "20190517T061715-0400",
+          "lat_dec": 37.942375,
+          "lon_dec": -70.955474,
+          "elevation": 0,
+          "speed": 0,
+          "course": "SE",
+          "heading": 135,
+          "text": [
+            "Yes, not been in Stream for a while.",
+            "See \"Islands in The Stream\" by Hemmingway.",
+            "Motoring last night. 1 engine RPM = 8 knots.",
+            "Have variable wind today, sailing at 6 to 10 knots.",
+            "Stream is very wide here…like 190 nautical miles."
+          ]
+        },
+        "20190517T121800-0400": {
+          "timestamp-iso8660": "20190517T121800-0400",
+          "lat_dec": 36.959241,
+          "lon_dec": -69.908201,
+          "elevation": -3.74,
+          "speed": 12.17,
+          "course": "SE",
+          "heading": 135,
+          "text": [
+            "Lovely day for a sail...",
+            "...gonna get a little sporty tonight...",
+            "…(20s gusting 30s from SSW-SW)",
+            "But nothing severe"
+          ]
+        },
+        "20190517T174230-0400": {
+          "timestamp-iso8660": "20190517T174230-0400",
+          "lat_dec": 36.639028,
+          "lon_dec": -69.324375,
+          "elevation": -3.74,
+          "speed": 12.17,
+          "course": "SE",
+          "heading": 135,
+          "text": "Wind now 25 gust 30s No worse f'cast."
+        },
+        "20190519T022000-0400": {
+          "timestamp-iso8660": "20190519T022200-0400",
+          "lat_dec": 35.10532,
+          "lon_dec": -67.62188,
+          "elevation": 2.35,
+          "speed": 15.33,
+          "course": "ESE",
+          "heading": 112.5,
+          "text": "Perfect night sailing! ETA Bermuda early AM Monday."
+        },
+        "20190519T075215-0400": {
+          "timestamp-iso8660": "20190519T075215-0400",
+          "lat_dec": 34.227533,
+          "lon_dec": -66.625854,
+          "elevation": 0,
+          "speed": 0,
+          "course": "ESE",
+          "heading": 112.5,
+          "text": "All OK."
+        },
+        "20190519T091945-0400": {
+          "timestamp-iso8660": "20190519T091945-0400",
+          "lat_dec": 34.017555,
+          "lon_dec": -66.387591,
+          "elevation": 2.35,
+          "speed": 7.03,
+          "course": "SE",
+          "heading": 135,
+          "text": "First Bermudan Scissor Tail sighted ( native to Bermuda)"
+        },
+        "20190520T045045-0400": {
+          "timestamp-iso8660": "20190520T045045-0400",
+          "lat_dec": 32.697748,
+          "lon_dec": -64.863281,
+          "elevation": 2.35,
+          "speed": 9.07,
+          "course": "SE",
+          "heading": 135,
+          "text": "All Otay!"
+        },
+        "20190520T113200-0400": {
+          "timestamp-iso8660": "20190520T113200-0400",
+          "lat_dec": 32.394058,
+          "lon_dec": -64.668638,
+          "elevation": 10.46,
+          "speed": 8.05,
+          "course": "NW",
+          "heading": 315,
+          "text": "Cleared in Bermuda! Going to RBYC Marina in Hamilton now."
+        },
+        "20190520T130000-0400": {
+          "timestamp-iso8660": "20190520T130000-0400",
+          "lat_dec": 32.318856,
+          "lon_dec": -64.826701,
+          "elevation": 0,
+          "speed": 0,
+          "course": "SW",
+          "heading": 225,
+          "text": ""
+        },
+        "20190520T140000-0400": {
+          "timestamp-iso8660": "20190520T140000-0400",
+          "lat_dec": 32.309138,
+          "lon_dec": -64.831518,
+          "elevation": 0,
+          "speed": 0,
+          "course": "SSW",
+          "heading": 202.5,
+          "text": ""
+        },
+        "20190520T150000-0400": {
+          "timestamp-iso8660": "20190520T150000-0400",
+          "lat_dec": 32.295264,
+          "lon_dec": -64.82072,
+          "elevation": 0,
+          "speed": 0,
+          "course": "SE",
+          "heading": 135,
+          "text": ""
+        },
+        "20190520T160000-0400": {
+          "timestamp-iso8660": "20190520T160000-0400",
+          "lat_dec": 32.287745,
+          "lon_dec": -64.790653,
+          "elevation": 0,
+          "speed": 0,
+          "course": "SE",
+          "heading": 135,
+          "text": ""
+        },
+        "20190521T000000-0400": {
+          "timestamp-iso8660": "20190521T000000-0400",
+          "lat_dec": 32.290853,
+          "lon_dec": -64.788328,
+          "elevation": 0,
+          "speed": 0,
+          "course": "N",
+          "heading": 0,
+          "text": ""
+        },
+        "20190520T160000-0400": {
+          "timestamp-iso8660": "20190520T160000-0400",
+          "lat_dec": 32.287745,
+          "lon_dec": -64.790653,
+          "elevation": 0,
+          "speed": 0,
+          "course": "SE",
+          "heading": 135,
+          "text": ""
+        },
+        "20190527T150000-0400": {
+          "timestamp-iso8660": "20190520T150000-0400",
+          "lat_dec": 32.295264,
+          "lon_dec": -64.82072,
+          "elevation": 0,
+          "speed": 0,
+          "course": "SE",
+          "heading": 135,
+          "text": ""
+        },
+        "20190527T160000-0400": {
+          "timestamp-iso8660": "20190520T160000-0400",
+          "lat_dec": 32.309138,
+          "lon_dec": -64.831518,
+          "elevation": 0,
+          "speed": 0,
+          "course": "SSW",
+          "heading": 202.5,
+          "text": ""
+        },
+        "20190527T170000-0400": {
+          "timestamp-iso8660": "20190527T170000-0400",
+          "lat_dec": 32.318856,
+          "lon_dec": -64.826701,
+          "elevation": 0,
+          "speed": 0,
+          "course": "SW",
+          "heading": 225,
+          "text": ""
+        },
+        "20190527T180000-0400": {
+          "timestamp-iso8660": "20190527T180000-0400",
+          "lat_dec": 32.395938,
+          "lon_dec": -64.674234,
+          "elevation": 0,
+          "speed": 0,
+          "course": "W",
+          "heading": 270,
+          "text": ""
+        },
+        "20190528T053515-0400": {
+          "timestamp-iso8660": "20190528T053515-0400",
+          "lat_dec": 32.38055,
+          "lon_dec": -64.648833,
+          "elevation": 10.46,
+          "speed": 12.17,
+          "course": "E",
+          "heading": 90,
+          "text": [
+            "And we're off in a fresh SW breeze!",
+            "Next stop Horta!"
+          ]
+        },
+        "20190528T080630-0400": {
+          "timestamp-iso8660": "20190528T080630-0400",
+          "lat_dec": 32.40729,
+          "lon_dec": -64.582834,
+          "elevation": 0,
+          "speed": 0,
+          "course": "E",
+          "heading": 90,
+          "text": "Good SW-S winds f'cast on route into Sun 👍"
+        },
+        "20190529T063130-0400": {
+          "timestamp-iso8660": "20190529T063130-0400",
+          "lat_dec": 32.647945,
+          "lon_dec": -63.988838,
+          "elevation": 0.32,
+          "speed": 13.21,
+          "course": "ENE",
+          "heading": 67.5,
+          "text": "Light wind all night."
+        },
+        "20190529T113400-0400": {
+          "timestamp-iso8660": "20190529T113400-0400",
+          "lat_dec": 32.647945,
+          "lon_dec": -63.988838,
+          "elevation": 0,
+          "speed": 0,
+          "course": "ENE",
+          "heading": 67.5,
+          "text": "Spinnaker run today...make up time!"
+        },
+        "20190530T052030-0400": {
+          "timestamp-iso8660": "20190530T052030-0400",
+          "lat_dec": 32.647945,
+          "lon_dec": -63.988838,
+          "elevation": 0,
+          "speed": 0,
+          "course": "ENE",
+          "heading": 67.5,
+          "text": [
+            "Unf drone left w crew who bailed in Bermuda.",
+            "Spin halyard parted last night...spin went under boat...great fun!"
+          ]
+        },
+        "20190530T083000-0400": {
+          "timestamp-iso8660": "20190530T083000-0400",
+          "lat_dec": 34.258804,
+          "lon_dec": -60.187933,
+          "elevation": 0,
+          "speed": 0,
+          "course": "ENE",
+          "heading": 67.5,
+          "text": [
+            "Spinnaker halyard chafed through last night so no more Spinnaker until Azores.",
+            "Winds SW 10 for next several days."
+          ]
+        },
+        "20190530T170615-0400": {
+          "timestamp-iso8660": "20190530T170615-0400",
+          "lat_dec": 34.575273,
+          "lon_dec": -59.481181,
+          "elevation": 10.46,
+          "speed": 10.1,
+          "course": "ENE",
+          "heading": 67.5,
+          "text": [
+            "Excellent sailing conditions. All good aboard.",
+            "Spinnaker halyard failed last night...a bit of excitment!"
+          ]
+        },
+        "20190531T111715-0400": {
+          "timestamp-iso8660": "20190531T111715-0400",
+          "lat_dec": 35.534001,
+          "lon_dec": -57.514821,
+          "elevation": -1.71,
+          "speed": 12.17,
+          "course": "ENE",
+          "heading": 67.5,
+          "text": "Another day of excellent conditions!"
+        },
+        "20190531T174645-0400": {
+          "timestamp-iso8660": "20190531T174645-0400",
+          "lat_dec": 35.534001,
+          "lon_dec": -57.514821,
+          "elevation": -1.71,
+          "speed": 12.17,
+          "course": "ENE",
+          "heading": 67.5,
+          "text": "All good here. A bit more wind (20+knots) and slightly bigger seas."
+        },
+        "20190601T083230-0400": {
+          "timestamp-iso8660": "20190601T083230-0400",
+          "lat_dec": 36.33124,
+          "lon_dec": -55.204453,
+          "elevation": -3.74,
+          "speed": 10.1,
+          "course": "ENE",
+          "heading": 67.5,
+          "text": "Starting a wee turn toward Azore (now on COG 070T). Working around Azores High."
+        },
+        "20190601T123915-0400": {
+          "timestamp-iso8660": "20190601T123915-0400",
+          "lat_dec": 36.33124,
+          "lon_dec": -55.204453,
+          "elevation": 0,
+          "speed": 0,
+          "course": "ENE",
+          "heading": 67.5,
+          "text": "If interested in why we are taking such an indirect route to the Azores, google “Azores High”. We r sailing the NW edge of it to stay in favorable winds."
+        },
+        "20190601T163430-0400": {
+          "timestamp-iso8660": "20190601T163430-0400",
+          "lat_dec": 36.33124,
+          "lon_dec": -55.204453,
+          "elevation": 0,
+          "speed": 0,
+          "course": "ENE",
+          "heading": 67.5,
+          "text": "Quote o t day: \"Never interrupt your enemy when he is making a mistake\" -Napoleon"
+        },
+        "20190601T182915-0400": {
+          "timestamp-iso8660": "20190601T182915-0400",
+          "lat_dec": 36.33124,
+          "lon_dec": -55.204453,
+          "elevation": 0,
+          "speed": 0,
+          "course": "ENE",
+          "heading": 67.5,
+          "text": "Quite pleasant conditions...dinner in the cockpit tonight! 😎"
+        }
+      }
     }
   }
 }
