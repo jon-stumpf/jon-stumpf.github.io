@@ -102,7 +102,6 @@ windyInit( options, windyAPI => {
 
 		    markers.push(marker);
 		    marker._icon.setAttribute('data-heading', message.heading);
-		    marker.bindPopup(boatName);
 
 		    updateIconStyle();
 		}
