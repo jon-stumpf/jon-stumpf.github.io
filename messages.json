@@ -383,7 +383,7 @@
           "text": "Azores H expanding. Course change to 060T to get over it.  Actually shortens our route due to “great circle” geometry."
         },
         "6/04  07:46": {
-          "timestamp_iso8660": "20190603T074600-0400",
+          "timestamp_iso8660": "20190604T074600-0400",
           "lat_dec": 38.735680,
           "lon_dec": -47.220891,
           "elevation": 0.32,
@@ -393,7 +393,7 @@
           "text": "Beautiful conditions today + favorable current. Ripping along at 9+ knots."
         },
         "6/04  09:46": {
-          "timestamp_iso8660": "20190603T094645-0400",
+          "timestamp_iso8660": "20190604T094645-0400",
           "lat_dec": 38.869821,
           "lon_dec": -46.886558,
           "elevation": -1.71,
@@ -401,6 +401,16 @@
           "course": "ENE",
           "heading": 67.5,
           "text": "Mike: 3 of us aboard."
+        },
+        "6/04  17:00": {
+          "timestamp_iso8660": "20190604T170000-0400",
+          "lat_dec": 39.214861,
+          "lon_dec": -46.009155,
+          "elevation": 2.35,
+          "speed": 17.47,
+          "course": "ENE",
+          "heading": 67.5,
+          "text": "In the Gulf Stream now making 9 knots w only 11 knots wind. 😎⛵"
         }
       }
     }
