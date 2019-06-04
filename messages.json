@@ -381,6 +381,16 @@
           "course": "ENE",
           "heading": 67.5,
           "text": "Azores H expanding. Course change to 060T to get over it.  Actually shortens our route due to “great circle” geometry."
+        },
+        "6/04  07:46": {
+          "timestamp_iso8660": "20190603T074600-0400",
+          "lat_dec": 38.735680,
+          "lon_dec": -47.220891,
+          "elevation": 0.32,
+          "speed": 16.40,
+          "course": "ENE",
+          "heading": 67.5,
+          "text": "Beautiful conditions today + favorable current. Ripping along at 9+ knots."
         }
       }
     }
