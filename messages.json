@@ -391,6 +391,16 @@
           "course": "ENE",
           "heading": 67.5,
           "text": "Beautiful conditions today + favorable current. Ripping along at 9+ knots."
+        },
+        "6/04  09:46": {
+          "timestamp_iso8660": "20190603T094645-0400",
+          "lat_dec": 38.869821,
+          "lon_dec": -46.886558,
+          "elevation": -1.71,
+          "speed": 16.40,
+          "course": "ENE",
+          "heading": 67.5,
+          "text": "Mike: 3 of us aboard."
         }
       }
     }
