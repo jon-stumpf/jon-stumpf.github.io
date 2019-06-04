@@ -31,7 +31,7 @@ windyInit( options, windyAPI => {
     const MessageIcon = L.icon({
 	iconUrl: MESSAGE_ICON_URL,
 	iconSize: [16, 16],
-	iconAnchor: [8, 16],
+	iconAnchor: [0, 0],
 	popupAnchor: [-32, -32],
     });
 
