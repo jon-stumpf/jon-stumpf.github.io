@@ -32,7 +32,7 @@ windyInit( options, windyAPI => {
 	iconUrl: MESSAGE_ICON_URL,
 	iconSize: [16, 16],
 	iconAnchor: [8, 16],
-	popupAnchor: [8, 16],
+	popupAnchor: [-32, -32],
     });
 
     const markers = [];
