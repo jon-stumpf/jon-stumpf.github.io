@@ -424,12 +424,12 @@
         },
         "6/05  14:42": {
           "timestamp_iso8660": "20190605T144215-0400",
-          "lat_dec": 40.188760,
-          "lon_dec": -43.479595,
-          "elevation": -1.71,
-          "speed": 15.33,
-          "course": "ENE",
-          "heading": 67.5,
+          "lat_dec": 40.924590,
+          "lon_dec": -41.568400,
+          "elevation": 0,
+          "speed": 0,
+          "course": "E",
+          "heading": 90,
           "text": "Latest GRIB shows Azores H starting shift S. Turned now onto COG 090T."
         }
       }
