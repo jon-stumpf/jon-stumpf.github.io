@@ -411,6 +411,16 @@
           "course": "ENE",
           "heading": 67.5,
           "text": "In the Gulf Stream now making 9 knots w only 11 knots wind. 😎⛵"
+        },
+        "6/05  06:15": {
+          "timestamp_iso8660": "20190605T061530-0400",
+          "lat_dec": 40.188760,
+          "lon_dec": -43.479595,
+          "elevation": -1.71,
+          "speed": 15.33,
+          "course": "ENE",
+          "heading": 67.5,
+          "text": "We've averaged 9.2kts over the past 12 hours! Max over 12 kts."
         }
       }
     }
