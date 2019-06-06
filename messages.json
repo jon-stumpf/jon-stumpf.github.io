@@ -424,8 +424,8 @@
         },
         "6/05  14:42": {
           "timestamp_iso8660": "20190605T144215-0400",
-          "lat_dec": 40.809850,
-          "lon_dec": -41.866404,
+          "lat_dec": 39.960587,
+          "lon_dec": -43.063239,
           "elevation": 0,
           "speed": 0,
           "course": "E",
@@ -434,13 +434,23 @@
         },
         "6/06  06:44": {
           "timestamp_iso8660": "20190606T064415-0400",
-          "lat_dec": 41.988329,
-          "lon_dec": -38.805477,
+          "lat_dec": 40.511577,
+          "lon_dec": -40.886610,
           "elevation": 0,
           "speed": 0,
           "course": "E",
           "heading": 90,
           "text": "Slow going this AM. Light wind adverse current. Sailing E, N of Azores H."
+        },
+        "6/06  09:44": {
+          "timestamp_iso8660": "20190606T094415-0400",
+          "lat_dec": 40.614673,
+          "lon_dec": -40.479340,
+          "elevation": -1.71,
+          "speed": 6.02,
+          "course": "E",
+          "heading": 90,
+          "text": "Slow going today. Light winds, contrary currents. Likely the case from here to Azores."
         }
       }
     }
