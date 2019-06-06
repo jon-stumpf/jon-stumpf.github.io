@@ -49,6 +49,8 @@ windyInit( options, windyAPI => {
         }
     };
 
+    L.control.mouseCoordinate().addTo(map);
+
     fetch("./messages.json")
         .then(response => response.json())
         .then(something => something.result)
