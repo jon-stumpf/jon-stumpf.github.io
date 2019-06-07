@@ -531,6 +531,26 @@
           "course": "ESE",
           "heading": 105,
           "text": "I'm at N 40 13.8476' W 38 3.4877', elev 130 ft, course ESE (105 T) at 7.3 kn."
+        },
+        "6/07  11:02": {
+          "timestamp_iso8660": "20190607T110200-0400",
+          "lat_dec": 40.189255,
+          "lon_dec": -37.767735,
+          "elevation": 9.0,
+          "speed": 12.88,
+          "course": "E",
+          "heading": 90,
+          "text": "Test Message"
+        },
+        "6/07  11:03": {
+          "timestamp_iso8660": "20190607T110345-0400",
+          "lat_dec": 40.188718,
+          "lon_dec": -37.764280,
+          "elevation": 4.37,
+          "speed": 12.17,
+          "course": "ESE",
+          "heading": 102,
+          "text": "I'm at N 40 11.3332' W 37 45.9212', elev 26 ft, course ESE (102 T) at 5.6 kn."
 	}
       }
     }
