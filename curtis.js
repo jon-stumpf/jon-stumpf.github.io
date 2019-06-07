@@ -76,11 +76,11 @@ windyInit( options, windyAPI => {
 				icon: MessageIcon,
 			    }).addTo(map);
 
-			    let messageHeader = "<b><pre>" +
+			    let messageHeader = "<b>" +
 					        messageTime +
-					        "  [" + message.lat_dec + ", " + message.lon_dec + "]  " +
+					        " [" + message.lat_dec + ", " + message.lon_dec + "] " +
 					        message.course + "@" +
-					        Math.round(message.speed * 0.539957) + "kts</pre></b><br>";
+					        Math.round(message.speed * 0.539957) + "kts</b><br>";
 			    marker.bindPopup(messageHeader + message.text, {minWidth: 100});
 			}
 
