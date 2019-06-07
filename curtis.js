@@ -112,8 +112,6 @@ windyInit( options, windyAPI => {
             console.error(`Error querying messages: ${error.message}`);
         });
 
-    L.control.mousePosition().addTo(map);
-
     // Handle some events. We need to update the rotation of icons ideally each time
     // leaflet re-renders. them.
     map.on('zoom', updateIconStyle);
