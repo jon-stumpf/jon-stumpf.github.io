@@ -451,7 +451,17 @@
           "course": "E",
           "heading": 90,
           "text": "Slow going today. Light winds, contrary currents. Likely the case from here to Azores."
-        }
+        },
+        "6/06  16:34": {
+          "timestamp_iso8660": "20190606T163445-0400",
+          "lat_dec": 40.579590,
+          "lon_dec": -39.838636,
+          "elevation": 2.35,
+          "speed": 11.13,
+          "course": "E",
+          "heading": 90,
+          "text": "We are mostly out of the unfavorable current now and making about 5.5kts.  Will start working our way more SE soon which should get us clear of Gulf Stream eddies but a little favorable push SSE would be good!"
+	}
       }
     }
   }
