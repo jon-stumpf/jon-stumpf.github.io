@@ -550,7 +550,17 @@
           "speed": 12.17,
           "course": "ESE",
           "heading": 102,
-          "text": "I'm at N 40 11.3332' W 37 45.9212', elev 26 ft, course ESE (102 T) at 5.6 kn."
+          "text": "I'm at N 40 11.3332' W 37 45.9212', elev 26 ft, course ESE (102 T) at 5.6 kn. Yes, altitude is a little high. Showing ~25' but seas are calm here. Firmware is out of date on this unit. Will try and update in Horta. Could be source of some of the issues."
+        },
+        "6/07  11:19": {
+          "timestamp_iso8660": "20190607T111915-0400",
+          "lat_dec": 40.183814,
+          "lon_dec": -37.729833,
+          "elevation": 8,
+          "speed": 12,
+          "course": "ESE",
+          "heading": 102,
+          "text": "Yes, altitude is a little high. Showing ~25' but seas are calm here. Firmware is out of date on this unit. Will try and update in Horta. Could be source of some of the issues."
 	}
       }
     }
