@@ -461,6 +461,26 @@
           "course": "E",
           "heading": 90,
           "text": "We are mostly out of the unfavorable current now and making about 5.5kts.  Will start working our way more SE soon which should get us clear of Gulf Stream eddies but a little favorable push SSE would be good!"
+        },
+        "6/06  20:37": {
+          "timestamp_iso8660": "20190606T203745-0400",
+          "lat_dec": 40.540205,
+          "lon_dec": -39.594855,
+          "elevation": 2.35,
+          "speed": 8.05,
+          "course": "ESE",
+          "heading": 112.5,
+          "text": "Discussed currents in the area w Chris Parker. He says data in the area for minor currents has been a bit unreliable lately.  We are now on COG ~105 True to get a better wind angle.  Making 5.5kts.  About 1 knot neg current."
+        },
+        "6/06  20:44": {
+          "timestamp_iso8660": "20190606T204400-0400",
+          "lat_dec": 40.495830,
+          "lon_dec": -39.436851,
+          "elevation": 2.35,
+          "speed": 8.05,
+          "course": "ESE",
+          "heading": 112.5,
+          "text": "Turned a bit SE and heading for Horta. Wind will go very light by Friday."
 	}
       }
     }
