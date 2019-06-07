@@ -481,6 +481,56 @@
           "course": "ESE",
           "heading": 112.5,
           "text": "Turned a bit SE and heading for Horta. Wind will go very light by Friday."
+        },
+        "6/06  22:19": {
+          "timestamp_iso8660": "20190606T221930-0400",
+          "lat_dec": 40.460962,
+          "lon_dec": -38.054924,
+          "elevation": 0,
+          "speed": 0,
+          "course": "ESE",
+          "heading": 112.5,
+          "text": "On our present course we wont get down to 40N for about another 100nm. There are so many meanders/eddies in this area its impossible to all. I've found COPERNICUS to be more accurate … at least off Panama."
+        },
+        "6/06  22:27": {
+          "timestamp_iso8660": "20190606T222700-0400",
+          "lat_dec": 40.458026,
+          "lon_dec": -39.240259,
+          "elevation": 0,
+          "speed": 0,
+          "course": "ESE",
+          "heading": 112.5,
+          "text": "In light air w many minor currents it becomes a game of diminishing returns. Ex: if we continue E we have a poor sailing angle, a bit SE better wind angle. In the end we will end up motor sailing the rest of this leg."
+        },
+        "6/07  05:10": {
+          "timestamp_iso8660": "20190607T051015-0400",
+          "lat_dec": 40.310112,
+          "lon_dec": -38.471032,
+          "elevation": 0,
+          "speed": 0,
+          "course": "ESE",
+          "heading": 112.5,
+          "text": "No wind. For the first time in 1,400 miles we are using engines for propulsion. Likely motor sailing the rest of the way to Horta."
+        },
+        "6/07  06:11": {
+          "timestamp_iso8660": "20190607T061145-0400",
+          "lat_dec": 40.287723,
+          "lon_dec": -38.354598,
+          "elevation": 0,
+          "speed": 0,
+          "course": "ESE",
+          "heading": 112.5,
+          "text": "Motoring into Horta has an upside...less likely to hit a whale. We've seen several already."
+        },
+        "6/07  08:47": {
+          "timestamp_iso8660": "20190607T084745-0400",
+          "lat_dec": 40.230098,
+          "lon_dec": -38.054923,
+          "elevation": 118.34,
+          "speed": 12.17,
+          "course": "ESE",
+          "heading": 105,
+          "text": "I'm at N 40 13.8476' W 38 3.4877', elev 130 ft, course ESE (105 T) at 7.3 kn."
 	}
       }
     }
