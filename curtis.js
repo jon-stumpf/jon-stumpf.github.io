@@ -75,7 +75,14 @@ windyInit( options, windyAPI => {
 				title: messageTime,
 				icon: MessageIcon,
 			    }).addTo(map);
-			    marker.bindPopup(messageTime + " - " + message.text);
+
+			    let messageHeader = messageTime +
+					        "  -  " +
+					        "[" + message.lat_dec + ", " + message.lon_dec + "]" +
+					        "  -  " +
+					        message.course + "@" +
+					        (message.speed * 0.539957) + "kts\n";
+			    marker.bindPopup(messageHeader + message.text);
 			}
 
 			layer.addLatLng([message.lat_dec, message.lon_dec]);
