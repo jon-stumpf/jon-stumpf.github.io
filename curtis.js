@@ -3,10 +3,7 @@ const options = {
     key: 'UorH6iWekY9Iwiwp0KcBqqWVJRjQqLVz',
     lat: 40,
     lon: -50,
-    zoom: 5,
-    hourFormat: '24h',
-    latlon: true,
-    isolines: true
+    zoom: 5
 }
 
 windyInit( options, windyAPI => {
