@@ -561,6 +561,16 @@
           "course": "ESE",
           "heading": 102,
           "text": "Yes, altitude is a little high. Showing ~25' but seas are calm here. Firmware is out of date on this unit. Will try and update in Horta. Could be source of some of the issues."
+        },
+        "6/08  14:28": {
+          "timestamp_iso8660": "20190608T142845-0400",
+          "lat_dec": 39.651846,
+          "lon_dec": -34.405918,
+          "elevation": -1.7,
+          "speed": 11.13,
+          "course": "ESE",
+          "heading": 102,
+          "text": "Another exciting day of motorsailing. Weather is quite nice at least."
 	}
       }
     }
