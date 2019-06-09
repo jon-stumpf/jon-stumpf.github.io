@@ -581,6 +581,16 @@
           "course": "ESE",
           "heading": 98,
           "text": "I'm at N 39 31.2459' W 33 40.6791', elev -22 ft, course E (98 T) at 6.0 kn."
+        },
+        "6/09  06:51": {
+          "timestamp_iso8660": "20190609T065115-0400",
+          "lat_dec": 39.297431,
+          "lon_dec": -32.500327,
+          "elevation": -1.71,
+          "speed": 10.10,
+          "course": "ESE",
+          "heading": 103,
+          "text": "I'm at N 39 31.2459' W 33 40.6791', elev -22 ft, course E (98 T) at 6.0 kn."
 	}
       }
     }
