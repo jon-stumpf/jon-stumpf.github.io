@@ -611,6 +611,16 @@
           "course": "E",
           "heading": 90,
           "text": "Light reading for a crossing: Steve Dashew's \"Surviving the Storm\". A classic work on extreme heavy weather sailing in modern yachts."
+        },
+        "6/09  16:57": {
+          "timestamp_iso8660": "20190609T165715-0400",
+          "lat_dec": 39.200586,
+          "lon_dec": -31.988562,
+          "elevation": 0,
+          "speed": 0,
+          "course": "E",
+          "heading": 90,
+          "text": "Passing about 18 mi S of Isla Flores now. Bound for Horta. Only about 130 mi to go!"
 	}
       }
     }
