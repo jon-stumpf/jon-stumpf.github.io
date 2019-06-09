@@ -571,6 +571,16 @@
           "course": "ESE",
           "heading": 102,
           "text": "Another exciting day of motorsailing. Weather is quite nice at least."
+        },
+        "6/08  20:32": {
+          "timestamp_iso8660": "20190608T203215-0400",
+          "lat_dec": 39.520440,
+          "lon_dec": -33.676271,
+          "elevation": -1.7,
+          "speed": 11.13,
+          "course": "ESE",
+          "heading": 98,
+          "text": "I'm at N 39 31.2459' W 33 40.6791', elev -22 ft, course E (98 T) at 6.0 kn."
 	}
       }
     }
