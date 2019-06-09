@@ -591,6 +591,26 @@
           "course": "ESE",
           "heading": 103,
           "text": "I'm at N 39 31.2459' W 33 40.6791', elev -22 ft, course E (98 T) at 6.0 kn."
+        },
+        "6/09  14:20": {
+          "timestamp_iso8660": "20190609T142000-0400",
+          "lat_dec": 39.225676,
+          "lon_dec": -32.121148,
+          "elevation": -1.71,
+          "speed": 11.13,
+          "course": "E",
+          "heading": 90,
+          "text": "Just sailed thru a tide line w 1,000s of Portugues Man O Wars in it. Light SW wind. Motorsailing, close hauled."
+        },
+        "6/09  15:24": {
+          "timestamp_iso8660": "20190609T152415-0400",
+          "lat_dec": 39.215448,
+          "lon_dec": -32.067100,
+          "elevation": 0,
+          "speed": 0,
+          "course": "E",
+          "heading": 90,
+          "text": "Light reading for a crossing: Steve Dashew's "Surviving the Storm". A classic work on extreme heavy weather sailing in modern yachts."
 	}
       }
     }
