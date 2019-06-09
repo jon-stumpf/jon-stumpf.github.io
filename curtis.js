@@ -76,7 +76,6 @@ windyInit( options, windyAPI => {
 				icon: MessageIcon,
 			    }).addTo(map);
 
-			    let locRef = "
 			    let messageHeader = "<b>" +
 					        messageTime +
 					        " | [<a href=\"https://www.windy.com/?" + message.lat_dec + "," + message.lon_dec + ",8\">" +
