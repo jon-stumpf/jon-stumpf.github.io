@@ -78,7 +78,7 @@ windyInit( options, windyAPI => {
 
 			    let messageHeader = "<b>" +
 					        messageTime +
-					        " | [<a href=\"https://www.windy.com/" + message.lat_dec + "/" + message.lon_dec + "?8,i:pressure\">" +
+					        " | [<a href=\"https://www.windy.com/" + message.lat_dec + "/" + message.lon_dec + "?8,i:pressure\" target=\"_blank\">" +
 					        message.lat_dec + ", " + message.lon_dec + "</a>] | " +
 					        message.course + "@" +
 					        Math.round(message.speed * 0.539957) + "kts</b><br>";
