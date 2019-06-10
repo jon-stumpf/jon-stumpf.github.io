@@ -661,6 +661,16 @@
           "course": "ESE",
           "heading": 107,
           "text": "Land ho! Faial is now easily visible at ~20m."
+	},
+        "6/10  12:09": {
+          "timestamp_iso8660": "20190610T120915-0400",
+          "lat_dec": 38.549558,
+          "lon_dec": -28.951883,
+          "elevation": 0,
+          "speed": 0,
+          "course": "ESE",
+          "heading": 107,
+          "text": "22mi to go to Horta @ 6 knots. Landfall in ~4hrs."
 	}
       }
     }
