@@ -633,7 +633,7 @@
           "text": "Wind has filled in for final leg to Horta. ETA about 8PM local time."
 	},
         "6/10  07:46": {
-          "timestamp_iso8660": "201906109T074615-0400",
+          "timestamp_iso8660": "20190610T074615-0400",
           "lat_dec": 38.701948,
           "lon_dec": -29.620191,
           "elevation": 0.32,
@@ -643,7 +643,7 @@
           "text": "Listening to “fado” (trad. Portg. music) to acclimatize for our landfall."
 	},
         "6/10  07:48": {
-          "timestamp_iso8660": "20190609T074800-0400",
+          "timestamp_iso8660": "20190610T074800-0400",
           "lat_dec": 38.691476,
           "lon_dec": -29.574315,
           "elevation": 0.32,
@@ -651,6 +651,16 @@
           "course": "ESE",
           "heading": 107,
           "text": "I'm at N 38 41.5083' W 29 34.5307', elev 3 ft, course ESE (107 T) at 7.2 kn."
+	},
+        "6/10  10:35": {
+          "timestamp_iso8660": "20190610T103530-0400",
+          "lat_dec": 38.600670,
+          "lon_dec": -29.176054,
+          "elevation": 0,
+          "speed": 0,
+          "course": "ESE",
+          "heading": 107,
+          "text": "Land ho! Faial is now easily visible at ~20m."
 	}
       }
     }
