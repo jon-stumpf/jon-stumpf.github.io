@@ -654,8 +654,8 @@
 	},
         "6/10  10:35": {
           "timestamp_iso8660": "20190610T103530-0400",
-          "lat_dec": 38.600670,
-          "lon_dec": -29.176054,
+          "lat_dec": 38.616734,
+          "lon_dec": -29.222137,
           "elevation": 0,
           "speed": 0,
           "course": "ESE",
@@ -664,8 +664,8 @@
 	},
         "6/10  12:09": {
           "timestamp_iso8660": "20190610T120915-0400",
-          "lat_dec": 38.549558,
-          "lon_dec": -28.951883,
+          "lat_dec": 38.574664,
+          "lon_dec": -29.023905,
           "elevation": 0,
           "speed": 0,
           "course": "ESE",
@@ -674,13 +674,23 @@
 	},
         "6/10  14:01": {
           "timestamp_iso8660": "20190610T140115-0400",
-          "lat_dec": 38.488659,
-          "lon_dec": -28.684786,
+          "lat_dec": 38.524537,
+          "lon_dec": -28.787714,
           "elevation": 0,
           "speed": 0,
           "course": "ESE",
           "heading": 107,
           "text": "Wow , Faial is a dramatically beautiful island. High peak (volcanic), very green, big cliffs..."
+	},
+        "6/10  14:25": {
+          "timestamp_iso8660": "20190610T142545-0400",
+          "lat_dec": 38.513796,
+          "lon_dec": -28.737102,
+          "elevation": 0.32,
+          "speed": 10.10,
+          "course": "E",
+          "heading": 85,
+          "text": "I'm at N 38 30.8231' W 28 44.3768', elev 15 ft, course E (85 T) at 5.5 kn."
 	}
       }
     }
