@@ -604,8 +604,8 @@
         },
         "6/09  15:24": {
           "timestamp_iso8660": "20190609T152415-0400",
-          "lat_dec": 39.215448,
-          "lon_dec": -32.067100,
+          "lat_dec": 39.193340,
+          "lon_dec": -31.965233,
           "elevation": 0,
           "speed": 0,
           "course": "E",
@@ -614,13 +614,43 @@
         },
         "6/09  16:57": {
           "timestamp_iso8660": "20190609T165715-0400",
-          "lat_dec": 39.200586,
-          "lon_dec": -31.988562,
+          "lat_dec": 39.146351,
+          "lon_dec": -31.738670,
           "elevation": 0,
           "speed": 0,
           "course": "E",
           "heading": 90,
           "text": "Passing about 18 mi S of Isla Flores now. Bound for Horta. Only about 130 mi to go!"
+	},
+        "6/10  05:45": {
+          "timestamp_iso8660": "20190610T054530-0400",
+          "lat_dec": 38.757813,
+          "lon_dec": -29.865260,
+          "elevation": -1.71,
+          "speed": 12.17,
+          "course": "ESE",
+          "heading": 112.5,
+          "text": "Wind has filled in for final leg to Horta. ETA about 8PM local time."
+	},
+        "6/10  07:46": {
+          "timestamp_iso8660": "201906109T074615-0400",
+          "lat_dec": 38.701948,
+          "lon_dec": -29.620191,
+          "elevation": 0.32,
+          "speed": 13.21,
+          "course": "ESE",
+          "heading": 112.5,
+          "text": "Listening to “fado” (trad. Portg. music) to acclimatize for our landfall."
+	},
+        "6/10  07:48": {
+          "timestamp_iso8660": "20190609T074800-0400",
+          "lat_dec": 38.691476,
+          "lon_dec": -29.574315,
+          "elevation": 0.32,
+          "speed": 14.27,
+          "course": "ESE",
+          "heading": 107,
+          "text": "I'm at N 38 41.5083' W 29 34.5307', elev 3 ft, course ESE (107 T) at 7.2 kn."
 	}
       }
     }
