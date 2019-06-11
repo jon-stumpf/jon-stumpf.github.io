@@ -691,6 +691,56 @@
           "course": "E",
           "heading": 85,
           "text": "I'm at N 38 30.8231' W 28 44.3768', elev 15 ft, course E (85 T) at 5.5 kn."
+	},
+        "6/10  17:27": {
+          "timestamp_iso8660": "20190610T172700-0400",
+          "lat_dec": 38.513483,
+          "lon_dec": -28.623209,
+          "elevation": 0,
+          "speed": 0,
+          "course": "N",
+          "heading": 0,
+          "text": ""
+	},
+        "6/10  17:37": {
+          "timestamp_iso8660": "20190610T173700-0400",
+          "lat_dec": 38.516857,
+          "lon_dec": -28.616689,
+          "elevation": 0,
+          "speed": 0,
+          "course": "N",
+          "heading": 0,
+          "text": ""
+	},
+        "6/10  18:07": {
+          "timestamp_iso8660": "20190610T180700-0400",
+          "lat_dec": 38.534367,
+          "lon_dec": -28.619607,
+          "elevation": 0,
+          "speed": 0,
+          "course": "N",
+          "heading": 0,
+          "text": ""
+	},
+        "6/10  18:22": {
+          "timestamp_iso8660": "20190610T182200-0400",
+          "lat_dec": 38.534367,
+          "lon_dec": -28.622411,
+          "elevation": 0,
+          "speed": 0,
+          "course": "N",
+          "heading": 0,
+          "text": ""
+	},
+        "6/10  18:37": {
+          "timestamp_iso8660": "20190610T183730-0400",
+          "lat_dec": 38.530750,
+          "lon_dec": -28.624598,
+          "elevation": 0,
+          "speed": 0,
+          "course": "N",
+          "heading": 0,
+          "text": "Good Karma is anchored in Horta."
 	}
       }
     }
